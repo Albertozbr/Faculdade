@@ -1,0 +1,34 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "janela.main",
+      "projectName": "Programa Orientado a Objeto_c61ea0ac"
+    },
+    {
+      "type": "java",
+      "name": "Rotina",
+      "request": "launch",
+      "mainClass": "Rotina",
+      "projectName": "Programa Orientado a Objeto_c61ea0ac"
+    },
+    {
+      "type": "java",
+      "name": "Janela",
+      "request": "launch",
+      "mainClass": "Janela",
+      "projectName": "Programa Orientado a Objeto_c61ea0ac"
+    },
+    {
+      "type": "java",
+      "name": "Debug Questao",
+      "request": "launch",
+      "mainClass": "Questao",
+      "cwd": "${workspaceFolder}/source",
+      "preLaunchTask": "javac Questao.java"
+    }
+  ]
+}
