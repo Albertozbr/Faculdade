@@ -1,0 +1,14 @@
+# Binários e artefatos de compilação
+*.exe
+*.class
+*.o
+*.out
+a.out
+
+# Arquivos de sistema
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Backups do MySQL Workbench
+*.mwb.bak
